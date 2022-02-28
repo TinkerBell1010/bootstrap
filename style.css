@@ -1,0 +1,61 @@
+.carousel-item {
+    max-height: 90vh;
+}
+
+
+.hanging-icons,
+.icon-square,
+svg {
+    background-color: #EEE2DC;
+}
+
+.navbar,
+.footer,
+.btn-primary {
+    background-color: #EDC7B7 !important;
+}
+
+.container {
+    width: 100%;
+    max-width: 100%;
+    margin: 0;
+}
+
+.border-bottom {
+    border-bottom: 1px solid #BAB2B5 !important;
+}
+
+.text-muted,
+.hanging-icons p,
+svg,
+.nav-link {
+    color: #123C69 !important;
+}
+
+.hanging-icons h2,
+.navbar-brand {
+    color: #AC3B61 !important;
+}
+
+.btn-primary {
+    border: none;
+    color: #AC3B61;
+}
+
+.btn-outline-success {
+    color: #AC3B61;
+    border-color: #AC3B61;
+}
+
+.btn-outline-success:hover {
+    background-color: #AC3B61;
+    border-color: #AC3B61;
+}
+
+.form-control {
+    border-color: #BAB2B5;
+}
+
+.form-control::placeholder {
+    color: #BAB2B5;
+}
